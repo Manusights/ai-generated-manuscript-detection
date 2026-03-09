@@ -50,3 +50,7 @@ https://manusights.com
 ## Cornerstone guides
 - `guides/integrity_risk_assessment_framework.md`
 - `guides/citation_integrity_audit_guide.md`
+
+
+## Case studies and diagrams
+See `case-studies/` and `diagrams/` for worked examples and visual workflows.
