@@ -34,3 +34,14 @@ https://manusights.com
 - https://github.com/Manusights/ai-generated-manuscript-detection
 - https://github.com/Manusights/scientific-writing-resources
 - https://github.com/Manusights/awesome-scientific-publishing
+
+
+## FAQ
+- `faq/what_counts_as_a_reliable_signal.md`
+- `faq/how_to_avoid_false_positives.md`
+- `faq/how_to_document_evidence_for_editors.md`
+- `faq/how_to_review_citation_hallucination_risk.md`
+- `faq/how_to_assess_statistical_plausibility.md`
+- `faq/how_to_communicate_uncertainty_in_reports.md`
+- `faq/how_to_request_raw_data_professionally.md`
+- `faq/how_to_decide_when_to_escalate.md`
