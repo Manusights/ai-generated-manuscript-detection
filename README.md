@@ -16,3 +16,12 @@ This repository focuses on practical review signals, not automatic accusation fr
 ## About Manusights
 
 https://manusights.com
+
+
+## Additional tools
+- `rubrics/ai-integrity-risk-rubric.md`
+- `case-studies/example-assessment-template.md`
+
+## Cite this resource
+
+> Manusights. AI-Generated Manuscript Detection. GitHub repository. https://github.com/Manusights/ai-generated-manuscript-detection
