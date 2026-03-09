@@ -13,3 +13,8 @@ Reviewer notices unusual citation patterns and method vagueness in a high-impact
 - objective evidence log produced
 - editor received actionable, non-accusatory report
 - decision moved to targeted clarification request
+
+## References
+- guides/integrity_risk_assessment_framework.md
+- protocols/evidence_log_template.md
+- reporting/editor_summary_template.md
