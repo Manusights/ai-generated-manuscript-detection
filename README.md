@@ -45,3 +45,8 @@ https://manusights.com
 - `faq/how_to_communicate_uncertainty_in_reports.md`
 - `faq/how_to_request_raw_data_professionally.md`
 - `faq/how_to_decide_when_to_escalate.md`
+
+
+## Cornerstone guides
+- `guides/integrity_risk_assessment_framework.md`
+- `guides/citation_integrity_audit_guide.md`
