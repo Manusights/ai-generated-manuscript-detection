@@ -1,5 +1,7 @@
 # AI-Generated Manuscript Detection
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE) [![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen.svg)](.) [![Website](https://img.shields.io/badge/Manusights-manusights.com-blue.svg)](https://manusights.com)
+
 Resources for reviewers and editors assessing potential AI-related integrity issues in manuscripts.
 
 ## Files
@@ -25,3 +27,12 @@ https://manusights.com
 ## Cite this resource
 
 > Manusights. AI-Generated Manuscript Detection. GitHub repository. https://github.com/Manusights/ai-generated-manuscript-detection
+
+
+## Maintenance
+
+This repository is actively maintained. Content refreshes are planned monthly.
+
+## Contributing
+
+Suggestions are welcome through GitHub Issues and Pull Requests.
