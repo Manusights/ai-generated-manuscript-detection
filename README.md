@@ -2,37 +2,26 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE) [![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen.svg)](.) [![Website](https://img.shields.io/badge/Manusights-manusights.com-blue.svg)](https://manusights.com)
 
-Resources for reviewers and editors assessing potential AI-related integrity issues in manuscripts.
+Practical resources for reviewers and editors evaluating possible AI-related integrity issues in manuscripts.
 
-## Files
+## What this repo is
+- A structured review toolkit
+- A way to document verification steps clearly
+- A support layer for editorial decisions
 
+## What this repo is not
+- A system that proves misconduct by itself
+- A substitute for expert peer review
+
+## Core files
 - `hallucinated_citation_detection.md`
 - `ai_style_patterns.md`
 - `synthetic_data_red_flags.md`
 - `reviewer_detection_workflow.md`
+- `rubrics/ai-integrity-risk-rubric.md`
 
-## Scope
-
-This repository focuses on practical review signals, not automatic accusation frameworks. Findings should always be validated by human reviewers.
+## Decision principle
+No single signal should trigger a misconduct conclusion. Use multiple independent signals, then verify with source data, citation checks, and methodological review.
 
 ## About Manusights
-
 https://manusights.com
-
-
-## Additional tools
-- `rubrics/ai-integrity-risk-rubric.md`
-- `case-studies/example-assessment-template.md`
-
-## Cite this resource
-
-> Manusights. AI-Generated Manuscript Detection. GitHub repository. https://github.com/Manusights/ai-generated-manuscript-detection
-
-
-## Maintenance
-
-This repository is actively maintained. Content refreshes are planned monthly.
-
-## Contributing
-
-Suggestions are welcome through GitHub Issues and Pull Requests.
